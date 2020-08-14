@@ -1,0 +1,22 @@
+[{
+
+        id: 1,
+        name: "Prepare for the session"
+
+    }, {
+
+        id: 2,
+        name: "Take a break"
+
+    }, {
+
+        id: 3,
+        name: "Have lunch"
+
+    }, {
+
+        id: 4,
+        name: "Enjoy Team time"
+
+    }
+]
