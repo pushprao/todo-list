@@ -1,22 +1,23 @@
 [{
 
         id: 1,
-        name: "Prepare for the session"
+        name: "Prepare for the session",
+        done: true
 
     }, {
 
         id: 2,
-        name: "Take a break"
-
+        name: "Take a break",
+        done: false
     }, {
 
         id: 3,
-        name: "Have lunch"
-
+        name: "Have lunch",
+        done: false
     }, {
 
         id: 4,
-        name: "Enjoy Team time"
-
+        name: "Enjoy Team time",
+        done: false
     }
 ]
